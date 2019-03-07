@@ -35,4 +35,4 @@ Funny easter bunny with servo controlled ears. Because we can.
 
 ![Finished bunny with ears down](images/011.jpg)
 
-![Back of finished bunny](images/011.jpg)
+![Back of finished bunny](images/012.jpg)
